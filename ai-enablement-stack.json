@@ -1240,6 +1240,12 @@
               "link": "https://trae.ai/",
               "github": "",
               "x": "@Trae_ai"
+            },
+            {
+              "name": "Dot",
+              "description": "Dot (getdot.ai) is an AI data analyst: people ask questions in plain English in Slack, Microsoft Teams, the web app or from AI agents through its remote MCP server, and Dot writes and runs SQL on the company's own data warehouse and answers with charts, data and the SQL it ran.",
+              "logo": "./public/images/getdot.svg",
+              "link": "https://www.getdot.ai/"
             }
           ]
         },
